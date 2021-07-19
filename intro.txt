@@ -1,0 +1,17 @@
+https://blog.bearer.sh/consuming-webhooks-with-node-js-and-express/
+
+
+
+./ngrok authtoken 1vSeO8seE2X7zq0ORYVnre9ivPP_88bnbkrkV8z7udpmZZPtM
+
+
+
+ngrok\ngrok.exe help
+
+ngrok\ngrok.exe http 3000
+
+API webhook settings
+
+http://cdbc9d5c62a6.ngrok.io/hook
+
+http://localhost:3000/hook
